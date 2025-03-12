@@ -1,0 +1,11 @@
+.border{
+    width: 100px;
+    height: 20px;
+    background-color: rgb(194, 194, 202);
+    line-height: normal;
+    text-align: center;
+    border-right: 10px dotted blue;
+    border-top: 10px solid red;
+    border-bottom: 10px double green;
+    border-left: 10px groove rgb(187, 175, 200);
+}

@@ -1,0 +1,15 @@
+div{
+    background-color: rgb(255, 255, 255);
+    color:#ffffff;
+}
+p{
+    background-color: rgb(218, 214, 214);
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: auto;
+    height: 50px;
+    line-height: 50px;
+}
+p:hover{
+    background-color: rgb(41, 40, 40);
+}
