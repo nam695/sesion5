@@ -9,6 +9,7 @@ p{
     width: auto;
     height: 50px;
     line-height: 50px;
+    padding-left: 20px;
 }
 p:hover{
     background-color: rgb(41, 40, 40);
